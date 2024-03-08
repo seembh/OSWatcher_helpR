@@ -1,0 +1,118 @@
+DO NOT TRANSLATE OR LOCALIZE.
+
+********************************************************************************
+Oracle elects to use only the GNU Lesser General Public License version 2.1
+(LGPL) for any software where a choice of LGPL/GPL license versions are made
+available with the language indicating that LGPLv2.1/GPLv2 or any later version
+may be used, or where a choice of which version of the LGPL/GPL is applied is
+unspecified.
+********************************************************************************
+
+THIRD-PARTY COMPONENT FILE                                               LICENSE
+(path in the installation)                   (see license text reproduced below)
+--------------------------------------------------------------------------------
+js/bootstrap.js								MIT
+js/jquery.lightbox.js							https://creativecommons.org/licenses/by/4.0/
+js/jquery-1.10.2.min.js							jquery.org.license
+js/modernizr.js								MIT
+js/tabs.js			                                        https://creativecommons.org/licenses/by/4.0/
+js/templatemo_custom.js							http://www.templatemo.com/tm-397-concept
+js/scripts.js							        N/A
+js/tabs.js							        https://creativecommons.org/licenses/by/4.0/
+
+fonts/FontAwesome.otf							MIT
+fonts/fontawesome-webfont.svg                                           MIT
+fonts/fontawesome-webfont.ttf                                           MIT
+fonts/fontawesome-webfont.woff                                          MIT
+fonts/fontawesome-webfont.woff2                                         N/A
+
+images/bx_loader.gif                                                    https://creativecommons.org/licenses/by/4.0/
+images/close.png                                                        https://creativecommons.org/licenses/by/4.0/
+images/loading.gif                                                      https://creativecommons.org/licenses/by/4.0/
+images/next.png                                                         https://creativecommons.org/licenses/by/4.0/
+images/previous.png                                                     https://creativecommons.org/licenses/by/4.0/
+images/Thumbnail_Placeholder.png                                        https://creativecommons.org/licenses/by/4.0/
+
+css/animate.css                                                         MIT
+css/bootstrap.min.css                                                   MIT
+css/font-awesome.min.css                                                MIT
+css/style.css                                                           N/A
+css/templatemo_misc.css                                                 https://creativecommons.org/licenses/by/4.0/
+css/templatemo_style.css                                                https://creativecommons.org/licenses/by/4.0/
+
+
+
+/*!
+ * Bootstrap v3.1.1 (http://getbootstrap.com)
+ * Copyright 2011-2014 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+ 
+/*!
+ * jQuery JavaScript Library v2.1.4
+ * http://jquery.com/
+ *
+ * Copyright 2005, 2014 jQuery Foundation, Inc. and other contributors
+ * Released under the MIT license
+ * http://jquery.org/license
+ *
+ * Date: 2014-12-18T15:11Z
+ */
+ 
+/*!
+ * jquery.lightbox.js
+ * https://github.com/duncanmcdougall/Responsive-Lightbox
+ * Copyright 2013 Duncan McDougall and other contributors; @license Creative Commons Attribution 2.5
+ */
+ 
+/*! 
+ /* Modernizr 2.0.6 (Custom Build) | MIT & BSD
+  * Build: http://www.modernizr.com/download/
+ */
+ 
+/*! 
+ * http://www.templatemo.com/tm-397-concept
+ * Concept Template is licensed under a Creative Commons Attribution 4.0 International License. Permissions beyond the scope of this license is available here.
+ * https://creativecommons.org/licenses/by/4.0/ 
+ * templatemo_custom.js was modified to customize the menu for the OSWatcher template
+ * templatemo_style.ss was modified to customize the menu for the OSWatcher template
+ */ 
+ 
+/*!
+ *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License 
+*/
+
+/*!
+ * Animate.css - http://daneden.me/animate
+ * Licensed under the MIT license
+ * Copyright (c) 2013 Daniel Eden
+*/ 
+
+
+========================= MIT =========================
+
+The MIT License
+
+Copyright (c) __YEARS__, __NAMES__
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+===
+====== 
